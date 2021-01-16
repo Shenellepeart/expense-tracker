@@ -1,5 +1,5 @@
 # expense-tracker
-
+### Deployed app: https://expense-tracker-797e9.web.app/
 
 ## Available Scripts
 
